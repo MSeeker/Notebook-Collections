@@ -3,6 +3,7 @@
 This is a collection of Python & Julia notebooks that I have created in class projects, seminars and side projects. If you like them, feel free to use or modify the contents. Feedbacks are welcomed :)
 
 You can clone this repository to download the notebooks, or browse the NBViewer generated static links below:
+
 1. Monte Carlo Simulation of the Ising Model (Python)[TODO]
 
 2. Numerical Solution to the 1D Steady State Schrödinger Equation (Python)[TODO]
