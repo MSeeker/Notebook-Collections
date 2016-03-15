@@ -1,7 +1,13 @@
-# StatMech2015
+# MSeeker's Notebook Collections
 
-平统讨论班报告：Ising模型的蒙卡模拟
+This is a collection of Python & Julia notebooks that I have created in class projects, seminars and side projects. If you like them, feel free to use or modify the contents. Feedbacks are welcomed :)
 
-静态notebook：http://nbviewer.ipython.org/github/MSeeker/StatMech2015/blob/master/Ising模型的蒙卡模拟.ipynb
+You can clone this repository to download the notebooks, or browse the NBViewer generated static links below:
+1. Monte Carlo Simulation of the Ising Model (Python)[TODO]
+2. Numerical Solution to the 1D Steady State Schrödinger Equation (Python)[TODO]
+3. Generating Bifurcation Diagrams using Continuation Methods (Julia)[TODO]
 
-notebook运行环境：Python3 + 最新版NumPy、SciPy与Matplotlib。使用了Seaborn以美化Matplotlib所制的图。
+# About Me
+I'm a junior physics major at Peking University. Like many of you I'm a keen supporter of open-source scientific libraries, and I'm eager to contribute to the community. Currently my research interest lies in the *ab-initio* simulation of closed quantum systems, which I plan to do my B.S. thesis in. I plan to begin contributing to the Julia Quantum project and/or the Quantum Toolbox in Python (QuTiP) project in the near future.
+
+You can contact me at [guoxj1995@pku.edu.cn]
