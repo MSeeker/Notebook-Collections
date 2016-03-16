@@ -14,4 +14,4 @@ You can clone this repository to download the notebooks, or browse the NBViewer 
 
 I'm a junior physics major at Peking University. Like many of you I'm a keen supporter of open-source scientific libraries, and I'm eager to contribute to the community. Currently my research interest lies in the *ab-initio* simulation of closed quantum systems, which I plan to do my B.S. thesis in. I plan to begin contributing to the Julia Quantum project and/or the Quantum Toolbox in Python (QuTiP) project in the near future.
 
-[Email](guoxj1995@pku.edu.cn)
+[Email](mailto:guoxj1995@pku.edu.cn)
