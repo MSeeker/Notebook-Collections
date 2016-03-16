@@ -4,11 +4,11 @@ This is a collection of Python & Julia notebooks that I have created in class pr
 
 You can clone this repository to download the notebooks, or browse the NBViewer generated static links below:
 
-1. Monte Carlo Simulation of the Ising Model (Python)[TODO]
+1. Monte Carlo Simulation of the Ising Model (Python)[http://nbviewer.jupyter.org/github/MSeeker/Notebook-Collections/blob/master/Monte%20Carlo%20Simulation%20of%20the%20Ising%20Model.ipynb]
 
-2. Numerical Solution to the 1D Steady State Schrödinger Equation (Python)[TODO]
+2. Numerical Solution to the 1D Steady State Schrödinger Equation (Python)[http://nbviewer.jupyter.org/github/MSeeker/Notebook-Collections/blob/master/Numerical%20Solution%20to%20the%201D%20Steady%20State%20Schrödinger%20Equation.ipynb]
 
-3. Generating Bifurcation Diagrams using Continuation Methods (Julia)[TODO]
+3. (WIP) Generating Bifurcation Diagrams using Continuation Methods (Julia)
 
 # About Me
 
